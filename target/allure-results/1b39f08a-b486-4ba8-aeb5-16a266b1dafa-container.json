@@ -1,0 +1,1 @@
+{"uuid":"1b39f08a-b486-4ba8-aeb5-16a266b1dafa","name":"doLogin","children":["dbdee08b-0356-45f4-bf5f-4ba98b9c4c69"],"befores":[{"name":"beforeEachMethod","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1638275423745,"stop":1638275423754}],"afters":[],"start":1638275423724,"stop":1638275427851}
